@@ -130,3 +130,4 @@ console.log(high_profit_rate)
 const text = high_profit_rate.join('・')
 //  テキストを id = profit-rate-high-month を指定し表示
 document.getElementById('profit-rate-high-month').textContent = text
+
